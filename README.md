@@ -13,8 +13,8 @@ You can get the value of the Constant by using the get function.
 
     get('IMG_PATH');
 
-IF the constant is not defined, you get an error log on the javascript console.
+If the constant is not defined, you get an error log on the javascript console.
 
 You can also check if a constant has been defined:
 
-    define('IMG_PATH');//returns true
+    defined('IMG_PATH');//returns true
